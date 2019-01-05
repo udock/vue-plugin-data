@@ -10,13 +10,13 @@
     "lib"
   ],
   "scripts": {
-    "build": "@udock/build-tools rollup"
+    "build": "udock-build-tools rollup"
   },
   "dependencies": {
     "jsonic": "^0.3.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "@udock/build-tools": "^0.0.1"
+    "@udock/build-tools": "^0.0.2"
   }
 }
