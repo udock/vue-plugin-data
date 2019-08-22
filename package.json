@@ -1,7 +1,7 @@
 {
   "name": "@udock/vue-plugin-data",
   "description": "@udock/vue-plugin-data",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "dist/index.umd.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -16,7 +16,7 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "@udock/build-tools": "^0.0.2"
+    "@udock/build-tools": "^0.1.0"
   },
   "license": "MIT"
 }
